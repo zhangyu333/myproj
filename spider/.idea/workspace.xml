@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc6c323a-b611-4ba7-aeb8-f21c3d198ada" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/spider$zjr_xtcgpt_zhongbiao_detail_spider.coverage" NAME="zjr_xtcgpt_zhongbiao_detail_spider Coverage Results" MODIFIED="1563437367172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_fjxzjd_zhaobiao_detail_spider.coverage" NAME="zjr_fjxzjd_zhaobiao_detail_spider Coverage Results" MODIFIED="1562750525294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$while_true.coverage" NAME="while_true Coverage Results" MODIFIED="1574835987353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zhr_cmd_run.coverage" NAME="zhr_cmd_run Coverage Results" MODIFIED="1587453318318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szxgzjyfw_zhaobiao_detail_spider.coverage" NAME="zjr_szxgzjyfw_zhaobiao_detail_spider Coverage Results" MODIFIED="1562741213040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cqspb_biangeng_detail_spider.coverage" NAME="zjr_cqspb_biangeng_detail_spider Coverage Results" MODIFIED="1563418896296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_tianya_detail.coverage" NAME="zjr_tianya_detail Coverage Results" MODIFIED="1585185383515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$log.coverage" NAME="log Coverage Results" MODIFIED="1575947201910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzzzzz_erwei.coverage" NAME="zzzzzz_erwei Coverage Results" MODIFIED="1583121189451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zhihu_login.coverage" NAME="zhihu_login Coverage Results" MODIFIED="1587951367796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_ynkg_zhaobiao_detail_spider.coverage" NAME="zjr_ynkg_zhaobiao_detail_spider Coverage Results" MODIFIED="1562808738766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_crccmall_zhaobiao_detail_spider.coverage" NAME="zjr_crccmall_zhaobiao_detail_spider Coverage Results" MODIFIED="1563500549389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szzfcgsc_zhongbiao_detail_spider.coverage" NAME="zjr_szzfcgsc_zhongbiao_detail_spider Coverage Results" MODIFIED="1565158998922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_wancaishop_zhongbiao_detail_spider.coverage" NAME="zjr_wancaishop_zhongbiao_detail_spider Coverage Results" MODIFIED="1562317789593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$downloader.coverage" NAME="downloader Coverage Results" MODIFIED="1574130437907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_qiangguolt_detail.coverage" NAME="zjr_qiangguolt_detail Coverage Results" MODIFIED="1586245846688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weain_qita_detail_spider.coverage" NAME="zjr_weain_qita_detail_spider Coverage Results" MODIFIED="1562312795322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weain_biangeng_detail_spider.coverage" NAME="zjr_weain_biangeng_detail_spider Coverage Results" MODIFIED="1562312870068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$wdc_mantis_critical_ids.coverage" NAME="wdc_mantis_critical_ids Coverage Results" MODIFIED="1564727071770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/spider$zjr_zbxx_zhaobiao_detail_spider.coverage" NAME="zjr_zbxx_zhaobiao_detail_spider Coverage Results" MODIFIED="1563172123007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_tianya_user_detail.coverage" NAME="zjr_tianya_user_detail Coverage Results" MODIFIED="1585187134297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_jinritoutiao_detail.coverage" NAME="zjr_jinritoutiao_detail Coverage Results" MODIFIED="1587867808577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szxgzjyfw_qita_detail_spider.coverage" NAME="zjr_szxgzjyfw_qita_detail_spider Coverage Results" MODIFIED="1562742755747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szxgzjyfw_zhongbiao_detail_spider.coverage" NAME="zjr_szxgzjyfw_zhongbiao_detail_spider Coverage Results" MODIFIED="1562742588643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$util.coverage" NAME="util Coverage Results" MODIFIED="1574126002843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cqspb_zhaobiao_detail_spider.coverage" NAME="zjr_cqspb_zhaobiao_detail_spider Coverage Results" MODIFIED="1563418529578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzzzzzzzzzzzz.coverage" NAME="zzzzzzzzzzzzz Coverage Results" MODIFIED="1578039524072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_xiangyang_zhaobiao_detail_spider.coverage" NAME="zjr_xiangyang_zhaobiao_detail_spider Coverage Results" MODIFIED="1563518834492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_takefoto_detail.coverage" NAME="zjr_takefoto_detail Coverage Results" MODIFIED="1585537584874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_baidutieba_detail.coverage" NAME="zjr_baidutieba_detail Coverage Results" MODIFIED="1585726980461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szxgzjyfw_feibiao_detail_spider.coverage" NAME="zjr_szxgzjyfw_feibiao_detail_spider Coverage Results" MODIFIED="1562742674816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_get_visitorcookie.coverage" NAME="zjr_weibo_get_visitorcookie Coverage Results" MODIFIED="1574125250137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_b2bkk1_zhaobiao_detail_spider.coverage" NAME="zjr_b2bkk1_zhaobiao_detail_spider Coverage Results" MODIFIED="1562132603130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$lz_ylfyw_detail.coverage" NAME="lz_ylfyw_detail Coverage Results" MODIFIED="1587111990558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_get_proxy.coverage" NAME="zjr_get_proxy Coverage Results" MODIFIED="1578623580246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_xiaoyu_list.coverage" NAME="zjr_xiaoyu_list Coverage Results" MODIFIED="1585818684121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$htmlparser.coverage" NAME="htmlparser Coverage Results" MODIFIED="1585125974377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cgzxzjnu_zhongbiao_detail_spider.coverage" NAME="zjr_cgzxzjnu_zhongbiao_detail_spider Coverage Results" MODIFIED="1563429516514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_hf35zh_qita_detail_spider.coverage" NAME="zjr_hf35zh_qita_detail_spider Coverage Results" MODIFIED="1565253762535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_hongshigroup_zhongbiao_detail_spider.coverage" NAME="zjr_hongshigroup_zhongbiao_detail_spider Coverage Results" MODIFIED="1563516700236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_jinritoutiao.coverage" NAME="zjr_jinritoutiao Coverage Results" MODIFIED="1586414902141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_zhihu_detail.coverage" NAME="zjr_zhihu_detail Coverage Results" MODIFIED="1588150856129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_chinaocc_detail.coverage" NAME="zjr_chinaocc_detail Coverage Results" MODIFIED="1584521731806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_pcshou_detail.coverage" NAME="zjr_pcshou_detail Coverage Results" MODIFIED="1584518337928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzzzzzzz_ceshi.coverage" NAME="zzzzzzzz_ceshi Coverage Results" MODIFIED="1587091373701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$tsw_coverage_rate_spider.coverage" NAME="tsw_coverage_rate_spider Coverage Results" MODIFIED="1565676023369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_login_linxu_zidong.coverage" NAME="zjr_weibo_login_linxu_zidong Coverage Results" MODIFIED="1575874546598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzzz_mysql.coverage" NAME="zzzz_mysql Coverage Results" MODIFIED="1583807560538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_baidutieba_list.coverage" NAME="zjr_baidutieba_list Coverage Results" MODIFIED="1585708170517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cgzxzjnu_feibiao_detail_spider.coverage" NAME="zjr_cgzxzjnu_feibiao_detail_spider Coverage Results" MODIFIED="1563430916302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzzzzzzzzz_cccc.coverage" NAME="zzzzzzzzzz-cccc Coverage Results" MODIFIED="1574048735355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzzzz8.coverage" NAME="zzzzz8 Coverage Results" MODIFIED="1585635295770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_cookie_Import.coverage" NAME="zjr_weibo_cookie_Import Coverage Results" MODIFIED="1579070420435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_hxfzzx_detail.coverage" NAME="zjr_hxfzzx_detail Coverage Results" MODIFIED="1584499753915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_jinritoutiao_selium.coverage" NAME="zjr_jinritoutiao_selium Coverage Results" MODIFIED="1587520648183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_tianya_list.coverage" NAME="zjr_tianya_list Coverage Results" MODIFIED="1584348489274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_ceiea_zhaobiao_detail_spider.coverage" NAME="zjr_ceiea_zhaobiao_detail_spider Coverage Results" MODIFIED="1562736888196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_sogouwechat_search.coverage" NAME="zjr_sogouwechat_search Coverage Results" MODIFIED="1587710912607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_qzcns_detail.coverage" NAME="zjr_qzcns_detail Coverage Results" MODIFIED="1577952731839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cgzxzjnu_gongshi_detail_spider.coverage" NAME="zjr_cgzxzjnu_gongshi_detail_spider Coverage Results" MODIFIED="1563430788885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_xtcgpt_biangeng_detail_spider.coverage" NAME="zjr_xtcgpt_biangeng_detail_spider Coverage Results" MODIFIED="1563437434488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cqspb_zhongbiao_detail_spider.coverage" NAME="zjr_cqspb_zhongbiao_detail_spider Coverage Results" MODIFIED="1563418576895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szecpcrc_zhaobiao_detail_spider.coverage" NAME="zjr_szecpcrc_zhaobiao_detail_spider Coverage Results" MODIFIED="1562810435546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_sogouwechat_detail.coverage" NAME="zjr_sogouwechat_detail Coverage Results" MODIFIED="1587698665086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$.coverage" NAME="倒库 Coverage Results" MODIFIED="1577266533358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$wdc_mantis_critical_ids1.coverage" NAME="wdc_mantis_critical_ids1 Coverage Results" MODIFIED="1564731612752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/spider$zjr_dongnan_detail.coverage" NAME="zjr_dongnan_detail Coverage Results" MODIFIED="1585203661342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_jinritoutiao_list.coverage" NAME="zjr_jinritoutiao_list Coverage Results" MODIFIED="1587542939849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_visitorcookie_Import.coverage" NAME="zjr_weibo_visitorcookie_Import Coverage Results" MODIFIED="1574151005402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_anxiw_detail.coverage" NAME="zjr_anxiw_detail Coverage Results" MODIFIED="1578298749539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_ynkg_zhongbiao_detail_spider.coverage" NAME="zjr_ynkg_zhongbiao_detail_spider Coverage Results" MODIFIED="1562808698105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szzfcgsc_zhaobiao_detail_spider.coverage" NAME="zjr_szzfcgsc_zhaobiao_detail_spider Coverage Results" MODIFIED="1565158793038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cqspb_qita_detail_spider.coverage" NAME="zjr_cqspb_qita_detail_spider Coverage Results" MODIFIED="1563419458654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_b2bkk1_zhaobiao_detail_spider2.coverage" NAME="zjr_b2bkk1_zhaobiao_detail_spider2 Coverage Results" MODIFIED="1562135083255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_xtcgpt_zhaobiao_detail_spider.coverage" NAME="zjr_xtcgpt_zhaobiao_detail_spider Coverage Results" MODIFIED="1563436680134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_ahhyzb_zhaobiao_detail_spider.coverage" NAME="zjr_ahhyzb_zhaobiao_detail_spider Coverage Results" MODIFIED="1562308483959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cgzxzjnu_zhaobiao_detail_spider.coverage" NAME="zjr_cgzxzjnu_zhaobiao_detail_spider Coverage Results" MODIFIED="1563428360119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cgzxzjnu_qita_detail_spider.coverage" NAME="zjr_cgzxzjnu_qita_detail_spider Coverage Results" MODIFIED="1563430365883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$spider.coverage" NAME="spider Coverage Results" MODIFIED="1587537300498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szecpcrc_qita_detail_spider.coverage" NAME="zjr_szecpcrc_qita_detail_spider Coverage Results" MODIFIED="1562811495423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_zhihu_list.coverage" NAME="zjr_zhihu_list Coverage Results" MODIFIED="1588143854225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzzzzz_afsdsaf.coverage" NAME="zzzzzz_afsdsaf Coverage Results" MODIFIED="1575355367661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weain_zhaobiao_detail_spider.coverage" NAME="zjr_weain_zhaobiao_detail_spider Coverage Results" MODIFIED="1562312119970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cctv_detail.coverage" NAME="zjr_cctv_detail Coverage Results" MODIFIED="1586846891732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_login.coverage" NAME="zjr_weibo_login Coverage Results" MODIFIED="1575860748173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_wancaishop_feibiao_detail_spider.coverage" NAME="zjr_wancaishop_feibiao_detail_spider Coverage Results" MODIFIED="1562318173354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_shanghaidaily_detail.coverage" NAME="zjr_shanghaidaily_detail Coverage Results" MODIFIED="1585128894524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_hpgov_qita_detail_spider.coverage" NAME="zjr_hpgov_qita_detail_spider Coverage Results" MODIFIED="1563353759720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_baidutieba_detail_test.coverage" NAME="zjr_baidutieba_detail_test Coverage Results" MODIFIED="1585732291117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_mayitb_zhongbiao_detail_spider.coverage" NAME="zjr_mayitb_zhongbiao_detail_spider Coverage Results" MODIFIED="1563327021797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_tianya_detail__1_.coverage" NAME="zjr_tianya_detail (1) Coverage Results" MODIFIED="1584425991490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_tao3198cfk_zhaobiao_detail_spider.coverage" NAME="zjr_tao3198cfk_zhaobiao_detail_spider Coverage Results" MODIFIED="1562226408324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_search.coverage" NAME="zjr_weibo_search Coverage Results" MODIFIED="1578038062234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_cgzxzjnu_biangeng_detail_spider.coverage" NAME="zjr_cgzxzjnu_biangeng_detail_spider Coverage Results" MODIFIED="1563429796646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_mayitb_zhaobiao_detail_spider.coverage" NAME="zjr_mayitb_zhaobiao_detail_spider Coverage Results" MODIFIED="1563326535670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_login_win_zidong.coverage" NAME="zjr_weibo_login_win_zidong Coverage Results" MODIFIED="1575860740040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_5zhuo_detail.coverage" NAME="zjr_5zhuo_detail Coverage Results" MODIFIED="1584691880857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_qiangguolt_list.coverage" NAME="zjr_qiangguolt_list Coverage Results" MODIFIED="1586224238827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szecpcrc_zhongbiao_detail_spider.coverage" NAME="zjr_szecpcrc_zhongbiao_detail_spider Coverage Results" MODIFIED="1562810892740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szzfcgsc_qita_detail_spider.coverage" NAME="zjr_szzfcgsc_qita_detail_spider Coverage Results" MODIFIED="1565159242008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_hongshigroup_zhaobiao_detail_spider.coverage" NAME="zjr_hongshigroup_zhaobiao_detail_spider Coverage Results" MODIFIED="1563515646932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_login_zidong.coverage" NAME="zjr_weibo_login_zidong Coverage Results" MODIFIED="1574730479635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_szecpcrc_biangeng_detail_spider.coverage" NAME="zjr_szecpcrc_biangeng_detail_spider Coverage Results" MODIFIED="1562811165461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_xtcgpt_qita_detail_spider.coverage" NAME="zjr_xtcgpt_qita_detail_spider Coverage Results" MODIFIED="1563437518992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_youth_detail.coverage" NAME="zjr_youth_detail Coverage Results" MODIFIED="1585536931234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$lz_zyw_detail.coverage" NAME="lz_zyw_detail Coverage Results" MODIFIED="1586847931427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_is_sismember_redis_zset_project.coverage" NAME="zzz_is_sismember_redis_zset_project Coverage Results" MODIFIED="1587690542831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_xiaoyu_detail.coverage" NAME="zjr_xiaoyu_detail Coverage Results" MODIFIED="1585899845188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzzz.coverage" NAME="zzzz Coverage Results" MODIFIED="1588730393758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_wancaishop_zhaobiao_detail_spider.coverage" NAME="zjr_wancaishop_zhaobiao_detail_spider Coverage Results" MODIFIED="1562317427443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_changqing_zhaobiao_detail_spider.coverage" NAME="zjr_changqing_zhaobiao_detail_spider Coverage Results" MODIFIED="1565163305066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_mayitb_biangeng_detail_spider.coverage" NAME="zjr_mayitb_biangeng_detail_spider Coverage Results" MODIFIED="1563329517942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spider" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SXRl5HrdegJqt7haJv6EHupYBA" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\spider\0701-0709" />
+      <recent name="F:\spider" />
+      <recent name="F:\spider\0620test" />
+      <recent name="D:\spider" />
+      <recent name="D:\spider\0522" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\spider\0701-0709" />
+      <recent name="D:\spider\0515" />
+      <recent name="D:\spider" />
+      <recent name="C:\Users\lenovo\Desktop\spider" />
+      <recent name="C:\Users\lenovo\Desktop\spider\zjr_other" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.zy_chasedreamluntan_detail_test">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0515" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0515/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hongwang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0515" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0515/hongwang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0515" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0515/work.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zjr_weibo_selium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/weibo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/weibo/zjr_weibo_selium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zy_chasedreamluntan_detail_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/总文件/luntai/8-9/zy_chasedreamluntan_detail_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zzzzzz_afsdsaf" type="PythonConfigurationType" factoryName="Python">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zzzzzz_afsdsaf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.zzzzzz_afsdsaf" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.hongwang" />
+      <item itemvalue="Python.work" />
+      <item itemvalue="Python.zjr_weibo_selium" />
+      <item itemvalue="Python.zy_chasedreamluntan_detail_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zy_chasedreamluntan_detail_test" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.zjr_weibo_selium" />
+        <item itemvalue="Python.work" />
+        <item itemvalue="Python.hongwang" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc6c323a-b611-4ba7-aeb8-f21c3d198ada" name="Default Changelist" comment="" />
+      <created>1562123771291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562123771291</updated>
+      <workItem from="1571708103226" duration="5467000" />
+      <workItem from="1571738362067" duration="370000" />
+      <workItem from="1571792909889" duration="23576000" />
+      <workItem from="1571878750196" duration="7314000" />
+      <workItem from="1571964528674" duration="15511000" />
+      <workItem from="1571997930493" duration="600000" />
+      <workItem from="1572224161537" duration="19670000" />
+      <workItem from="1572311097320" duration="19630000" />
+      <workItem from="1572337393350" duration="5152000" />
+      <workItem from="1572396805436" duration="21460000" />
+      <workItem from="1572484126437" duration="17981000" />
+      <workItem from="1572571256937" duration="15496000" />
+      <workItem from="1572829139263" duration="18617000" />
+      <workItem from="1572915815448" duration="11658000" />
+      <workItem from="1573002481690" duration="25431000" />
+      <workItem from="1573036847250" duration="154000" />
+      <workItem from="1573088965309" duration="23594000" />
+      <workItem from="1573174570233" duration="21721000" />
+      <workItem from="1573434866835" duration="21799000" />
+      <workItem from="1573520819812" duration="17340000" />
+      <workItem from="1573609323240" duration="15916000" />
+      <workItem from="1573694646098" duration="4427000" />
+      <workItem from="1573701558095" duration="2252000" />
+      <workItem from="1573703827086" duration="3000" />
+      <workItem from="1573703848185" duration="752000" />
+      <workItem from="1573704615918" duration="3124000" />
+      <workItem from="1573717771452" duration="5914000" />
+      <workItem from="1573805708703" duration="157000" />
+      <workItem from="1574038937988" duration="2936000" />
+      <workItem from="1574043143570" duration="21971000" />
+      <workItem from="1574124719432" duration="22304000" />
+      <workItem from="1574211892025" duration="7721000" />
+      <workItem from="1574220379582" duration="11106000" />
+      <workItem from="1574297950902" duration="18327000" />
+      <workItem from="1574384978819" duration="3288000" />
+      <workItem from="1574389827081" duration="6031000" />
+      <workItem from="1574402586733" duration="11084000" />
+      <workItem from="1574644220233" duration="12914000" />
+      <workItem from="1574675115479" duration="1192000" />
+      <workItem from="1574730462283" duration="6529000" />
+      <workItem from="1574738850848" duration="17190000" />
+      <workItem from="1574817103720" duration="2340000" />
+      <workItem from="1574822432016" duration="16162000" />
+      <workItem from="1574905188312" duration="7828000" />
+      <workItem from="1574989447426" duration="17688000" />
+      <workItem from="1575248461323" duration="6645000" />
+      <workItem from="1575334694781" duration="19467000" />
+      <workItem from="1575421635058" duration="41899000" />
+      <workItem from="1575595100176" duration="24716000" />
+      <workItem from="1575872139249" duration="10286000" />
+      <workItem from="1575939825811" duration="15165000" />
+      <workItem from="1576027107539" duration="2191000" />
+      <workItem from="1576055356205" duration="33000" />
+      <workItem from="1576055654795" duration="801000" />
+      <workItem from="1576060049172" duration="783000" />
+      <workItem from="1576119304849" duration="260000" />
+      <workItem from="1576122602640" duration="2432000" />
+      <workItem from="1576143684959" duration="257000" />
+      <workItem from="1576199059949" duration="1351000" />
+      <workItem from="1576204012418" duration="482000" />
+      <workItem from="1576207104349" duration="15000" />
+      <workItem from="1576207206567" duration="90000" />
+      <workItem from="1576217976081" duration="2311000" />
+      <workItem from="1576225085719" duration="1165000" />
+      <workItem from="1576231646062" duration="393000" />
+      <workItem from="1576466715897" duration="803000" />
+      <workItem from="1576479438947" duration="1224000" />
+      <workItem from="1576487650290" duration="621000" />
+      <workItem from="1576548254583" duration="26000" />
+      <workItem from="1576550796728" duration="1003000" />
+      <workItem from="1576568992870" duration="3448000" />
+      <workItem from="1576631963499" duration="1300000" />
+      <workItem from="1576718919477" duration="2392000" />
+      <workItem from="1576747043933" duration="2603000" />
+      <workItem from="1576806211465" duration="4513000" />
+      <workItem from="1576834462566" duration="625000" />
+      <workItem from="1577066846573" duration="632000" />
+      <workItem from="1577071373816" duration="3732000" />
+      <workItem from="1577171332802" duration="3478000" />
+      <workItem from="1577257338200" duration="9261000" />
+      <workItem from="1577268298241" duration="1640000" />
+      <workItem from="1577322585534" duration="23168000" />
+      <workItem from="1577408668235" duration="19415000" />
+      <workItem from="1577667728988" duration="18037000" />
+      <workItem from="1577755631250" duration="22250000" />
+      <workItem from="1577928399782" duration="17878000" />
+      <workItem from="1578013920344" duration="11854000" />
+      <workItem from="1578045624270" duration="772000" />
+      <workItem from="1578272778596" duration="20777000" />
+      <workItem from="1578359134309" duration="12324000" />
+      <workItem from="1578444734845" duration="39040000" />
+      <workItem from="1578617476153" duration="20238000" />
+      <workItem from="1578879077702" duration="20118000" />
+      <workItem from="1578963386375" duration="13383000" />
+      <workItem from="1578987345972" duration="9084000" />
+      <workItem from="1578997022970" duration="19000" />
+      <workItem from="1579050303598" duration="15247000" />
+      <workItem from="1579156346983" duration="5393000" />
+      <workItem from="1579309327895" duration="7307000" />
+      <workItem from="1579396743431" duration="20974000" />
+      <workItem from="1579431159577" duration="162000" />
+      <workItem from="1579482276195" duration="36177000" />
+      <workItem from="1579655953175" duration="4817000" />
+      <workItem from="1583110348566" duration="16436000" />
+      <workItem from="1583196907642" duration="5167000" />
+      <workItem from="1583801533889" duration="3402000" />
+      <workItem from="1583888733222" duration="6876000" />
+      <workItem from="1584067773106" duration="20000" />
+      <workItem from="1584069626963" duration="1339000" />
+      <workItem from="1584327955847" duration="12670000" />
+      <workItem from="1584406883511" duration="23413000" />
+      <workItem from="1584493250580" duration="26055000" />
+      <workItem from="1584599412551" duration="3866000" />
+      <workItem from="1584676301920" duration="7000000" />
+      <workItem from="1584925715786" duration="15202000" />
+      <workItem from="1585012448362" duration="3669000" />
+      <workItem from="1585018305434" duration="11613000" />
+      <workItem from="1585100268110" duration="19595000" />
+      <workItem from="1585184921674" duration="24180000" />
+      <workItem from="1585273105448" duration="11597000" />
+      <workItem from="1585530451714" duration="10607000" />
+      <workItem from="1585549173162" duration="584000" />
+      <workItem from="1585550423813" duration="41000" />
+      <workItem from="1585550559776" duration="1221000" />
+      <workItem from="1585553659950" duration="2159000" />
+      <workItem from="1585556751646" duration="3551000" />
+      <workItem from="1585616892886" duration="15931000" />
+      <workItem from="1585703107388" duration="22968000" />
+      <workItem from="1585795140570" duration="3682000" />
+      <workItem from="1585809368080" duration="9677000" />
+      <workItem from="1585875541049" duration="15501000" />
+      <workItem from="1585903989941" duration="2966000" />
+      <workItem from="1586221373503" duration="16651000" />
+      <workItem from="1586249192787" duration="1808000" />
+      <workItem from="1586307980198" duration="17346000" />
+      <workItem from="1586394470218" duration="15853000" />
+      <workItem from="1586480173860" duration="20789000" />
+      <workItem from="1586514339316" duration="859000" />
+      <workItem from="1586739770079" duration="18426000" />
+      <workItem from="1586826769614" duration="21450000" />
+      <workItem from="1586914044257" duration="6267000" />
+      <workItem from="1586922806216" duration="2593000" />
+      <workItem from="1586932680281" duration="10285000" />
+      <workItem from="1586999849841" duration="11480000" />
+      <workItem from="1587021300707" duration="971000" />
+      <workItem from="1587025845763" duration="781000" />
+      <workItem from="1587085670813" duration="5153000" />
+      <workItem from="1587108544485" duration="4468000" />
+      <workItem from="1587345486133" duration="11645000" />
+      <workItem from="1587375575655" duration="20273000" />
+      <workItem from="1587516825070" duration="23445000" />
+      <workItem from="1587603820380" duration="4064000" />
+      <workItem from="1587612729106" duration="9832000" />
+      <workItem from="1587689497116" duration="499000" />
+      <workItem from="1587690500270" duration="1123000" />
+      <workItem from="1587693170224" duration="13444000" />
+      <workItem from="1587863759385" duration="20084000" />
+      <workItem from="1587949013888" duration="14354000" />
+      <workItem from="1587977689564" duration="4759000" />
+      <workItem from="1588035779674" duration="1348000" />
+      <workItem from="1588042140960" duration="12428000" />
+      <workItem from="1588122284569" duration="17953000" />
+      <workItem from="1588153054399" duration="584000" />
+      <workItem from="1588209211636" duration="9171000" />
+      <workItem from="1588232953665" duration="1309000" />
+      <workItem from="1588727137201" duration="898000" />
+      <workItem from="1588728322709" duration="601000" />
+      <workItem from="1588728935525" duration="320000" />
+      <workItem from="1588729285603" duration="3557000" />
+      <workItem from="1589179328783" duration="9226000" />
+      <workItem from="1589245951717" duration="2092000" />
+      <workItem from="1589251175805" duration="4875000" />
+      <workItem from="1589262395646" duration="2178000" />
+      <workItem from="1589265767784" duration="11432000" />
+      <workItem from="1589330601699" duration="26771000" />
+      <workItem from="1589417242509" duration="21811000" />
+      <workItem from="1589447113326" duration="3048000" />
+      <workItem from="1589504250196" duration="7479000" />
+      <workItem from="1589512191131" duration="5778000" />
+      <workItem from="1589524498865" duration="5389000" />
+      <workItem from="1589531060798" duration="3289000" />
+      <workItem from="1589763584660" duration="5275000" />
+      <workItem from="1589793352534" duration="2506000" />
+      <workItem from="1589849023120" duration="26721000" />
+      <workItem from="1589935337338" duration="27319000" />
+      <workItem from="1590022378059" duration="24527000" />
+      <workItem from="1590109343112" duration="22708000" />
+      <workItem from="1590141817046" duration="192000" />
+      <workItem from="1590368675750" duration="14632000" />
+      <workItem from="1590394672185" duration="2248000" />
+      <workItem from="1590454852528" duration="25334000" />
+      <workItem from="1590543578280" duration="18145000" />
+      <workItem from="1590627786822" duration="14066000" />
+      <workItem from="1590717746112" duration="17587000" />
+      <workItem from="1590974152532" duration="20922000" />
+      <workItem from="1591059629569" duration="33688000" />
+      <workItem from="1591146478225" duration="24988000" />
+      <workItem from="1591233038357" duration="10869000" />
+      <workItem from="1591319125454" duration="4921000" />
+      <workItem from="1591579156020" duration="19275000" />
+      <workItem from="1591664593251" duration="23907000" />
+      <workItem from="1591751008049" duration="7796000" />
+      <workItem from="1591771675139" duration="149000" />
+      <workItem from="1591772149054" duration="3310000" />
+      <workItem from="1591838647568" duration="5928000" />
+      <workItem from="1591847114334" duration="36000" />
+      <workItem from="1591847745049" duration="1948000" />
+      <workItem from="1592187925985" duration="16282000" />
+      <workItem from="1592271878237" duration="1014000" />
+      <workItem from="1592273009469" duration="373000" />
+      <workItem from="1592273467413" duration="233000" />
+      <workItem from="1592273791280" duration="1351000" />
+      <workItem from="1592275261764" duration="734000" />
+      <workItem from="1592277585653" duration="78000" />
+      <workItem from="1592277671640" duration="1043000" />
+      <workItem from="1592279769663" duration="285000" />
+      <workItem from="1592280212603" duration="265000" />
+      <workItem from="1592290620862" duration="1099000" />
+      <workItem from="1592291835786" duration="71000" />
+      <workItem from="1592291912887" duration="5251000" />
+      <workItem from="1592297568971" duration="3975000" />
+      <workItem from="1592356221833" duration="23869000" />
+      <workItem from="1592442583343" duration="17781000" />
+      <workItem from="1592472119643" duration="502000" />
+      <workItem from="1592530477397" duration="971000" />
+      <workItem from="1592535088359" duration="1235000" />
+      <workItem from="1592548471901" duration="9715000" />
+      <workItem from="1593306587518" duration="9971000" />
+      <workItem from="1593486319214" duration="13965000" />
+      <workItem from="1593570175192" duration="6062000" />
+      <workItem from="1593586806824" duration="677000" />
+      <workItem from="1593589860803" duration="70000" />
+      <workItem from="1593590015749" duration="6364000" />
+      <workItem from="1593652095549" duration="32400000" />
+      <workItem from="1593738718875" duration="19711000" />
+      <workItem from="1593998220816" duration="12602000" />
+      <workItem from="1594019874789" duration="813000" />
+      <workItem from="1594023289128" duration="2597000" />
+      <workItem from="1594026161423" duration="178000" />
+      <workItem from="1594032339729" duration="2452000" />
+      <workItem from="1594084056480" duration="1423000" />
+      <workItem from="1594087041985" duration="19862000" />
+      <workItem from="1594170495723" duration="22308000" />
+      <workItem from="1594200141907" duration="16000" />
+      <workItem from="1594350617257" duration="15390000" />
+      <workItem from="1594602382006" duration="2974000" />
+      <workItem from="1594606819937" duration="147000" />
+      <workItem from="1594629507909" duration="5195000" />
+      <workItem from="1594689210858" duration="24990000" />
+      <workItem from="1594775296482" duration="20315000" />
+      <workItem from="1594862529097" duration="14477000" />
+      <workItem from="1594954695568" duration="1332000" />
+      <workItem from="1594956848230" duration="462000" />
+      <workItem from="1594957329517" duration="7769000" />
+      <workItem from="1594971756482" duration="4907000" />
+      <workItem from="1594978300500" duration="1476000" />
+      <workItem from="1595207498134" duration="20944000" />
+      <workItem from="1595293768438" duration="20943000" />
+      <workItem from="1595380071777" duration="12861000" />
+      <workItem from="1595401431227" duration="4988000" />
+      <workItem from="1595409763716" duration="113000" />
+      <workItem from="1595410092503" duration="2406000" />
+      <workItem from="1595466145951" duration="8923000" />
+      <workItem from="1595491057650" duration="6633000" />
+      <workItem from="1595553118929" duration="12333000" />
+      <workItem from="1595584941409" duration="18000" />
+      <workItem from="1595818820812" duration="2103000" />
+      <workItem from="1595821153167" duration="932000" />
+      <workItem from="1595822177977" duration="1215000" />
+      <workItem from="1595828575500" duration="18000" />
+      <workItem from="1595829274266" duration="14073000" />
+      <workItem from="1595898706133" duration="19685000" />
+      <workItem from="1595985872763" duration="20784000" />
+      <workItem from="1596071420143" duration="15913000" />
+      <workItem from="1596097215673" duration="672000" />
+      <workItem from="1596158738557" duration="8913000" />
+      <workItem from="1596187208202" duration="518000" />
+      <workItem from="1597020872322" duration="37667000" />
+      <workItem from="1597109563302" duration="17703000" />
+      <workItem from="1597134872757" duration="4197000" />
+      <workItem from="1597194980551" duration="21232000" />
+      <workItem from="1597281645274" duration="3621000" />
+      <workItem from="1597286108866" duration="105000" />
+      <workItem from="1597290810933" duration="5958000" />
+      <workItem from="1597306850411" duration="1460000" />
+      <workItem from="1597626395731" duration="18833000" />
+      <workItem from="1597652779797" duration="6390000" />
+      <workItem from="1597713111840" duration="21711000" />
+      <workItem from="1597799821747" duration="364000" />
+      <workItem from="1597800300354" duration="623000" />
+      <workItem from="1597803140427" duration="9827000" />
+      <workItem from="1597825383965" duration="31000" />
+      <workItem from="1599707353164" duration="43000" />
+      <workItem from="1600826154137" duration="466000" />
+      <workItem from="1601177992220" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601178028596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601178028596" />
+    <state x="668" y="132" key="#zy_cannewscomcn_detail_test" timestamp="1593570843489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="132" key="#zy_cannewscomcn_detail_test/0.0.1920.1040@0.0.1920.1040" timestamp="1593570843489" />
+    <state x="437" y="222" key="FileChooserDialogImpl" timestamp="1600826617271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="222" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600826617271" />
+    <state x="614" y="317" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597825412981" />
+    <state width="1877" height="386" key="GridCell.Tab.0.bottom" timestamp="1597819262365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="386" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597819262365" />
+    <state width="1877" height="386" key="GridCell.Tab.0.center" timestamp="1597819262365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="386" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597819262365" />
+    <state width="1877" height="386" key="GridCell.Tab.0.left" timestamp="1597819262365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="386" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597819262365" />
+    <state width="1877" height="386" key="GridCell.Tab.0.right" timestamp="1597819262365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="386" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597819262365" />
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1597817595036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597817595036" />
+    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1597817595036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597817595036" />
+    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1597817595036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597817595036" />
+    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1597817595036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597817595036" />
+    <state x="252" y="126" key="SettingsEditor" timestamp="1594606909459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="252" y="126" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594606909459" />
+    <state width="1006" height="528" key="XDebugger.FullValuePopup" timestamp="1597817532200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1006" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1597817532200" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1597800312660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597800312660" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597634003081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597634003081" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/新上传/zzz_njfangchinasocom_detail_test.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0612other/zy_news178com_detail_test.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/总文件/zy_0605test/zy_zhoushancn_detail_test.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/总文件/zy_0529test/zy_hainansinacomcn_detail_test.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="data.data" />
+        <watch expression="data_replie" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spider$zy_cqcbcom_detail_test.coverage" NAME="zy_cqcbcom_detail_test Coverage Results" MODIFIED="1591692421779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_qzwenmingcn_detail.coverage" NAME="zzz_qzwenmingcn_detail Coverage Results" MODIFIED="1589357728374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_paper0746newscom_detail_test.coverage" NAME="zy_paper0746newscom_detail_test Coverage Results" MODIFIED="1592451411499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nmpeoplecomcn_detail.coverage" NAME="zzz_nmpeoplecomcn_detail Coverage Results" MODIFIED="1589363275889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_chinateachercomcn_detail_test.coverage" NAME="zy_chinateachercomcn_detail_test Coverage Results" MODIFIED="1591606954919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0612" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwxinmincnpaper_detai_listl_test__1_.coverage" NAME="zy_wwwxinmincnpaper_detai_listl_test (1) Coverage Results" MODIFIED="1593687154512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0701-0709" />
+    <SUITE FILE_PATH="coverage/spider$zzz_recifechina_consulateorg_detail_test.coverage" NAME="zzz_recifechina-consulateorg_detail_test Coverage Results" MODIFIED="1590632580003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件" />
+    <SUITE FILE_PATH="coverage/spider$zy_cnrcnurl_detail_test.coverage" NAME="zy_cnrcnurl_detail_test Coverage Results" MODIFIED="1594873013274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-redis" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjxnewscomcn_detail_test.coverage" NAME="zzz_newsjxnewscomcn_detail_test Coverage Results" MODIFIED="1592464968966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/0605新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_hualongxiang_detail_test.coverage" NAME="zy_hualongxiang_detail_test Coverage Results" MODIFIED="1597299453138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zy_ebruncom_detail_test.coverage" NAME="zy_ebruncom_detail_test Coverage Results" MODIFIED="1591090507336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_sxrbcom_detail_test.coverage" NAME="zy_sxrbcom_detail_test Coverage Results" MODIFIED="1592382615986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0620test" />
+    <SUITE FILE_PATH="coverage/spider$zy_xwkxnet_detail_test.coverage" NAME="zy_xwkxnet_detail_test Coverage Results" MODIFIED="1592301378446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0620test" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsenamecn_detail_test.coverage" NAME="zy_newsenamecn_detail_test Coverage Results" MODIFIED="1591010869174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy_cankaoxiaoxicom_detail_test.coverage" NAME="zy_cankaoxiaoxicom_detail_test Coverage Results" MODIFIED="1589963246657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy0522test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_www81cn_detail.coverage" NAME="zzz_www81cn_detail Coverage Results" MODIFIED="1589338329985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_takefotocn_detail_test.coverage" NAME="zy_takefotocn_detail_test Coverage Results" MODIFIED="1591078808642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/0522test/zy_0522" />
+    <SUITE FILE_PATH="coverage/spider$zy_financialnewscomcn_detail_test.coverage" NAME="zy_financialnewscomcn_detail_test Coverage Results" MODIFIED="1590465582230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$zy_jjckbxinhuanetcom_detail_test.coverage" NAME="zy_jjckbxinhuanetcom_detail_test Coverage Results" MODIFIED="1594606882250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0612other" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwthepapercn_user_test__1_.coverage" NAME="zy_wwwthepapercn_user_test (1) Coverage Results" MODIFIED="1594109840441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/0701-0709" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_get_userid1.coverage" NAME="zjr_weibo_get_userid1 Coverage Results" MODIFIED="1572833158013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_tianjinweenorthcomcn_detail_test.coverage" NAME="zy_tianjinweenorthcomcn_detail_test Coverage Results" MODIFIED="1591173905021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_jsly001_detail_test.coverage" NAME="zy_jsly001_detail_test Coverage Results" MODIFIED="1597284259059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zy_imsilkroadcom_detail_test.coverage" NAME="zy_imsilkroadcom_detail_test Coverage Results" MODIFIED="1593587081642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy_yongzhougovcn_detail_test.coverage" NAME="zy_yongzhougovcn_detail_test Coverage Results" MODIFIED="1591238368236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$buffer.coverage" NAME="buffer Coverage Results" MODIFIED="1595295319398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_buffer" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsnews6comcn_detail.coverage" NAME="zzz_newsnews6comcn_detail Coverage Results" MODIFIED="1589529081766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_zxwindowluntan_detail_test.coverage" NAME="zy_zxwindowluntan_detail_test Coverage Results" MODIFIED="1597214753788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsifengcom_detail_test.coverage" NAME="zzz_newsifengcom_detail_test Coverage Results" MODIFIED="1590482875197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件" />
+    <SUITE FILE_PATH="coverage/spider$zy_ynzxnewscn_detail_test.coverage" NAME="zy_ynzxnewscn_detail_test Coverage Results" MODIFIED="1591237663715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_xhbynet_detail_test.coverage" NAME="zzz_xhbynet_detail_test Coverage Results" MODIFIED="1590124319337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/spider$zy_lnxinhuanetcom_detail_test.coverage" NAME="zy_lnxinhuanetcom_detail_test Coverage Results" MODIFIED="1592362324303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nnnewsanjukecom_detail.coverage" NAME="zzz_nnnewsanjukecom_detail Coverage Results" MODIFIED="1589510798635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_67com_detail_test.coverage" NAME="zy_67com_detail_test Coverage Results" MODIFIED="1591850246256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_bbtnewscomcn_detail.coverage" NAME="zy_bbtnewscomcn_detail Coverage Results" MODIFIED="1596165522146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka/0729" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsbeiwwcom_detail_test.coverage" NAME="zy_newsbeiwwcom_detail_test Coverage Results" MODIFIED="1591154439738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjnnccom_detail.coverage" NAME="zzz_newsjnnccom_detail Coverage Results" MODIFIED="1589507278748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$downloader.coverage" NAME="downloader Coverage Results" MODIFIED="1572317532021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_cnrcngbzz_detail_test.coverage" NAME="zy_cnrcngbzz_detail_test Coverage Results" MODIFIED="1591064479129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy_zhoushancn_detail_test.coverage" NAME="zy_zhoushancn_detail_test Coverage Results" MODIFIED="1592379115874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy_591hxcom_detail_test.coverage" NAME="zy_591hxcom_detail_test Coverage Results" MODIFIED="1592449875537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsijntvcn_detail.coverage" NAME="zzz_newsijntvcn_detail Coverage Results" MODIFIED="1589361828674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjsykscom_detail.coverage" NAME="zzz_newsjsykscom_detail Coverage Results" MODIFIED="1589508975781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjstvcom_detail.coverage" NAME="zzz_newsjstvcom_detail Coverage Results" MODIFIED="1589523873176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_xichunet_detail_test.coverage" NAME="zy_xichunet_detail_test Coverage Results" MODIFIED="1591012174466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0605test" />
+    <SUITE FILE_PATH="coverage/spider$demo.coverage" NAME="demo Coverage Results" MODIFIED="1591844871235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nnfocuscn_detail_test.coverage" NAME="zzz_nnfocuscn_detail_test Coverage Results" MODIFIED="1592462293371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_npfisencom_detail_test.coverage" NAME="zzz_npfisencom_detail_test Coverage Results" MODIFIED="1590632264522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件" />
+    <SUITE FILE_PATH="coverage/spider$zy_politicsgmwcn_detail_test.coverage" NAME="zy_politicsgmwcn_detail_test Coverage Results" MODIFIED="1591696577406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwoeeeecom_press_detail_test.coverage" NAME="zy_wwwoeeeecom_press_detail_test Coverage Results" MODIFIED="1595319603837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zzz_rxjpycom_detail.coverage" NAME="zzz_rxjpycom_detail Coverage Results" MODIFIED="1589340249544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_tuijianhao123com_detail_test.coverage" NAME="zy_tuijianhao123com_detail_test Coverage Results" MODIFIED="1591599349682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0612other" />
+    <SUITE FILE_PATH="coverage/spider$zjr_ahhyzb_qita_detail_spider.coverage" NAME="zjr_ahhyzb_qita_detail_spider Coverage Results" MODIFIED="1571795219315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_subaonetcom_detail_test.coverage" NAME="zy_subaonetcom_detail_test Coverage Results" MODIFIED="1591172139616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_chinadevelopmentbrieforgcn_detail_test.coverage" NAME="zy_chinadevelopmentbrieforgcn_detail_test Coverage Results" MODIFIED="1590461268650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$zzz_renshipeoplecomcn_detail_test.coverage" NAME="zzz_renshipeoplecomcn_detail_test Coverage Results" MODIFIED="1591755716875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsqz828com_detail_test.coverage" NAME="zy_newsqz828com_detail_test Coverage Results" MODIFIED="1590721819627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529testother" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_remen_details.coverage" NAME="zjr_weibo_remen_details Coverage Results" MODIFIED="1573007063257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nnnewsanjukecom_detail_test.coverage" NAME="zzz_nnnewsanjukecom_detail_test Coverage Results" MODIFIED="1592203388446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/0611上线test" />
+    <SUITE FILE_PATH="coverage/spider$zjr_qzcns_detail.coverage" NAME="zjr_qzcns_detail Coverage Results" MODIFIED="1589418418224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_yulingtv_detail_test.coverage" NAME="zy_yulingtv_detail_test Coverage Results" MODIFIED="1591685538924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_user_detail.coverage" NAME="zjr_weibo_user_detail Coverage Results" MODIFIED="1573442500862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_bbtnewscomcn_detail_test.coverage" NAME="zy_bbtnewscomcn_detail_test Coverage Results" MODIFIED="1595491517351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjxnewscomcn_detail.coverage" NAME="zzz_newsjxnewscomcn_detail Coverage Results" MODIFIED="1589510306759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_yb983com_detail_test.coverage" NAME="zy_yb983com_detail_test Coverage Results" MODIFIED="1592365303443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0620test" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsgscncomcn_detail_test.coverage" NAME="zy_newsgscncomcn_detail_test Coverage Results" MODIFIED="1592550376817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/0522test/zy_0522" />
+    <SUITE FILE_PATH="coverage/spider$zy_housechinacomcn_detail_test.coverage" NAME="zy_housechinacomcn_detail_test Coverage Results" MODIFIED="1592294580009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0620test" />
+    <SUITE FILE_PATH="coverage/spider$zy_chasedreamluntan_detail_test.coverage" NAME="zy_chasedreamluntan_detail_test Coverage Results" MODIFIED="1597817480652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zy_cctvcom_detail_test.coverage" NAME="zy_cctvcom_detail_test Coverage Results" MODIFIED="1590458146888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$zy_zcnewsnetcn_detail_test.coverage" NAME="zy_zcnewsnetcn_detail_test Coverage Results" MODIFIED="1591239411731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsmydriverscom_detail_test__1_.coverage" NAME="zzz_newsmydriverscom_detail_test (1) Coverage Results" MODIFIED="1590566353567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_xxcbcn_detail_test.coverage" NAME="zy_xxcbcn_detail_test Coverage Results" MODIFIED="1591235081695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_paperxinmincn_detail_test.coverage" NAME="zy_paperxinmincn_detail_test Coverage Results" MODIFIED="1590475863689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$zy_kunshanluntan_detail_test__2_.coverage" NAME="zy_kunshanluntan_detail_test (2) Coverage Results" MODIFIED="1597050824253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsnewseedcn_detail_test.coverage" NAME="zzz_newsnewseedcn_detail_test Coverage Results" MODIFIED="1592549014940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/zy15afternooon/test" />
+    <SUITE FILE_PATH="coverage/spider$zy_nbdcomcn_detail_test.coverage" NAME="zy_nbdcomcn_detail_test Coverage Results" MODIFIED="1590045614121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy0522test" />
+    <SUITE FILE_PATH="coverage/spider$zy_newswingshangcom_detail_test.coverage" NAME="zy_newswingshangcom_detail_test Coverage Results" MODIFIED="1591169720059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_sinainterface_detail_test.coverage" NAME="zy_sinainterface_detail_test Coverage Results" MODIFIED="1596093619720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zy_hongwangluntan_url_detail_test.coverage" NAME="zy_hongwangluntan_url_detail_test Coverage Results" MODIFIED="1594708729197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsifengcom_detail.coverage" NAME="zzz_newsifengcom_detail Coverage Results" MODIFIED="1590724722738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy0528生产环境" />
+    <SUITE FILE_PATH="coverage/spider$zy_zznewsgovcn_detail_test.coverage" NAME="zy_zznewsgovcn_detail_test Coverage Results" MODIFIED="1591240668606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_brtncn_detail_test.coverage" NAME="zy_brtncn_detail_test Coverage Results" MODIFIED="1590573274607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$run.coverage" NAME="run Coverage Results" MODIFIED="1572596835914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwxinminbaokan_detail_test.coverage" NAME="zy_wwwxinminbaokan_detail_test Coverage Results" MODIFIED="1595209430464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsmydriverscom_detail.coverage" NAME="zzz_newsmydriverscom_detail Coverage Results" MODIFIED="1589524922433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_hainansinacomcn_detail_test.coverage" NAME="zy_hainansinacomcn_detail_test Coverage Results" MODIFIED="1592460775458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0529test" />
+    <SUITE FILE_PATH="coverage/spider$zy_sosoxiancom_detail_test.coverage" NAME="zy_sosoxiancom_detail_test Coverage Results" MODIFIED="1590478571767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$zzz_qzcgzbcom_detail.coverage" NAME="zzz_qzcgzbcom_detail Coverage Results" MODIFIED="1589358869473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_niigatachina_consulateorgchn_detail_test.coverage" NAME="zzz_niigatachina-consulateorgchn_detail_test Coverage Results" MODIFIED="1590633032196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy15/test" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_ceshi.coverage" NAME="zjr_weibo_ceshi Coverage Results" MODIFIED="1572485524152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_paperbaoshandailycom_detail_test.coverage" NAME="zy_paperbaoshandailycom_detail_test Coverage Results" MODIFIED="1592272393564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zy_newse23cn_detail_test.coverage" NAME="zy_newse23cn_detail_test Coverage Results" MODIFIED="1591167879574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_cnxzcomcn_detail_test.coverage" NAME="zy_cnxzcomcn_detail_test Coverage Results" MODIFIED="1591085741042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_is_sismember_redis_zset_project.coverage" NAME="zzz_is_sismember_redis_zset_project Coverage Results" MODIFIED="1572832445879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_qz1203org_detail.coverage" NAME="zzz_qz1203org_detail Coverage Results" MODIFIED="1589359710105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_xinhuanetcom_url_detail.coverage" NAME="zy_xinhuanetcom_url_detail Coverage Results" MODIFIED="1596161004213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka/0729" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newyorkchina_consulateorgchn_detail_test.coverage" NAME="zzz_newyorkchina-consulateorgchn_detail_test Coverage Results" MODIFIED="1590550686954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsfx678com_detail_test.coverage" NAME="zy_newsfx678com_detail_test Coverage Results" MODIFIED="1591095200538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/0522test/zy_0522" />
+    <SUITE FILE_PATH="coverage/spider$is2.coverage" NAME="is2 Coverage Results" MODIFIED="1594174048496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjsykscom_detail_test.coverage" NAME="zzz_newsjsykscom_detail_test Coverage Results" MODIFIED="1590981327130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjsnolcom_detail.coverage" NAME="zzz_newsjsnolcom_detail Coverage Results" MODIFIED="1589513745032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newszhixiaorencom_detail.coverage" NAME="zzz_newszhixiaorencom_detail Coverage Results" MODIFIED="1592387189519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/formal" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsnewseedcn_detail.coverage" NAME="zzz_newsnewseedcn_detail Coverage Results" MODIFIED="1592206989346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/zy15afternooon/formal" />
+    <SUITE FILE_PATH="coverage/spider$zzz_railallynetcn_detail.coverage" NAME="zzz_railallynetcn_detail Coverage Results" MODIFIED="1589357136643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$work.coverage" NAME="work Coverage Results" MODIFIED="1597718736194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_ptfish_detail_test.coverage" NAME="zy_ptfish_detail_test Coverage Results" MODIFIED="1597201584257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newszynewscn_detail_test.coverage" NAME="zzz_newszynewscn_detail_test Coverage Results" MODIFIED="1589437299837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0514" />
+    <SUITE FILE_PATH="coverage/spider$zy_xinhuanetcom_detail_test.coverage" NAME="zy_xinhuanetcom_detail_test Coverage Results" MODIFIED="1595904670252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zy_chinazcom_detail_test.coverage" NAME="zy_chinazcom_detail_test Coverage Results" MODIFIED="1591854786007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_xxcbcn_detail.coverage" NAME="zy_xxcbcn_detail Coverage Results" MODIFIED="1592209865044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0611_生产环境上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_ycnewscn_detail_test.coverage" NAME="zy_ycnewscn_detail_test Coverage Results" MODIFIED="1591235908104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_bbs0594_detail_test.coverage" NAME="zy_bbs0594_detail_test Coverage Results" MODIFIED="1597219349228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zy_paperhndnewscom_detail_test.coverage" NAME="zy_paperhndnewscom_detail_test Coverage Results" MODIFIED="1592363949799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zy_cricn_detail_test.coverage" NAME="zy_cricn_detail_test Coverage Results" MODIFIED="1595496872553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zy_wenmingcn_detail_test.coverage" NAME="zy_wenmingcn_detail_test Coverage Results" MODIFIED="1591778889132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/0522test/zy_0522" />
+    <SUITE FILE_PATH="coverage/spider$zzz_rwftchinareportsorgcn_detail.coverage" NAME="zzz_rwftchinareportsorgcn_detail Coverage Results" MODIFIED="1589342134575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_paperzbnewsnet_detail_test.coverage" NAME="zy_paperzbnewsnet_detail_test Coverage Results" MODIFIED="1593307365748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newszjcom_detail_test.coverage" NAME="zzz_newszjcom_detail_test Coverage Results" MODIFIED="1590052199420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy15/test" />
+    <SUITE FILE_PATH="coverage/spider$zjr_get_proxy.coverage" NAME="zjr_get_proxy Coverage Results" MODIFIED="1573694789309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_rxjpycom_detail_test.coverage" NAME="zzz_rxjpycom_detail_test Coverage Results" MODIFIED="1589957308166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test0520" />
+    <SUITE FILE_PATH="coverage/spider$zzz_rizhaodzwwwcom_detail.coverage" NAME="zzz_rizhaodzwwwcom_detail Coverage Results" MODIFIED="1589353838070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_news178com_detail_test.coverage" NAME="zy_news178com_detail_test Coverage Results" MODIFIED="1592366638693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_worldpeoplecomcn_detail_test.coverage" NAME="zzz_worldpeoplecomcn_detail_test Coverage Results" MODIFIED="1590041380219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件/列表、详情未显示图片" />
+    <SUITE FILE_PATH="coverage/spider$zy_tiexuenet_detail_test.coverage" NAME="zy_tiexuenet_detail_test Coverage Results" MODIFIED="1592445039567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0620test" />
+    <SUITE FILE_PATH="coverage/spider$zy_pengpaisearchinterface_detail_test.coverage" NAME="zy_pengpaisearchinterface_detail_test Coverage Results" MODIFIED="1597282634756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zy_chinacaixincom_detail_test.coverage" NAME="zy_chinacaixincom_detail_test Coverage Results" MODIFIED="1591587936575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0612other" />
+    <SUITE FILE_PATH="coverage/spider$zy_bbsoncity_detail_test.coverage" NAME="zy_bbsoncity_detail_test Coverage Results" MODIFIED="1597647445118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zy_gansudailycomcn_detail_test.coverage" NAME="zy_gansudailycomcn_detail_test Coverage Results" MODIFIED="1591847935225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0522" />
+    <SUITE FILE_PATH="coverage/spider$htmlparser.coverage" NAME="htmlparser Coverage Results" MODIFIED="1589264559813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nnfocuscn_detail.coverage" NAME="zzz_nnfocuscn_detail Coverage Results" MODIFIED="1592462212653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/formal" />
+    <SUITE FILE_PATH="coverage/spider$zzz_rizhaosdnewscomcn_detail.coverage" NAME="zzz_rizhaosdnewscomcn_detail Coverage Results" MODIFIED="1589350771074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_takefotocn_detail.coverage" NAME="zy_takefotocn_detail Coverage Results" MODIFIED="1592207334096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0611_生产环境上传" />
+    <SUITE FILE_PATH="coverage/spider$zzz_rizhaosdnewscomcn_detail_test.coverage" NAME="zzz_rizhaosdnewscomcn_detail_test Coverage Results" MODIFIED="1590043806944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件/列表、详情未显示图片" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsxnnewscomcn_detail_test.coverage" NAME="zy_newsxnnewscomcn_detail_test Coverage Results" MODIFIED="1590732774461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_ndbbs_detail_test.coverage" NAME="zy_ndbbs_detail_test Coverage Results" MODIFIED="1597213804598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zy_ynxinhuanetcom_detail_test.coverage" NAME="zy_ynxinhuanetcom_detail_test Coverage Results" MODIFIED="1591756640967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0529test" />
+    <SUITE FILE_PATH="coverage/spider$zy_opinionpeoplecomcn_detail_test.coverage" NAME="zy_opinionpeoplecomcn_detail_test Coverage Results" MODIFIED="1592193115463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0529test" />
+    <SUITE FILE_PATH="coverage/spider$zy_huanqiukexuecom_detail_test.coverage" NAME="zy_huanqiukexuecom_detail_test Coverage Results" MODIFIED="1591695036426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nmoffcncom_detail.coverage" NAME="zzz_nmoffcncom_detail Coverage Results" MODIFIED="1589362925968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_intlcecn_detail_test.coverage" NAME="zy_intlcecn_detail_test Coverage Results" MODIFIED="1591009961986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy_newssxtxcmcom_detail_test.coverage" NAME="zy_newssxtxcmcom_detail_test Coverage Results" MODIFIED="1591168718926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_itithomecom_detail_test.coverage" NAME="zy_itithomecom_detail_test Coverage Results" MODIFIED="1593314984434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0619test" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwxinmincn_detail_test.coverage" NAME="zy_wwwxinmincn_detail_test Coverage Results" MODIFIED="1595561297500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$clear.coverage" NAME="clear Coverage Results" MODIFIED="1597138178349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_login.coverage" NAME="zjr_weibo_login Coverage Results" MODIFIED="1573617096275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_newshexuncom_detail_test.coverage" NAME="zy_newshexuncom_detail_test Coverage Results" MODIFIED="1589966011785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy0522test" />
+    <SUITE FILE_PATH="coverage/spider$zy_papertlnewscomcn_detail_test.coverage" NAME="zy_papertlnewscomcn_detail_test Coverage Results" MODIFIED="1592447212554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zy_njcbxhbynet_detail_test.coverage" NAME="zy_njcbxhbynet_detail_test Coverage Results" MODIFIED="1593315436160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newszynewscn_detail.coverage" NAME="zzz_newszynewscn_detail Coverage Results" MODIFIED="1592209646006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/formal" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsmydriverscom_detail_test.coverage" NAME="zzz_newsmydriverscom_detail_test Coverage Results" MODIFIED="1590551551348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy15/test/已修改" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsnencomcn_detail_test.coverage" NAME="zzz_newsnencomcn_detail_test Coverage Results" MODIFIED="1590390702140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy15/zy15afternooon/test/edit" />
+    <SUITE FILE_PATH="coverage/spider$.coverage" NAME="倒库 Coverage Results" MODIFIED="1571815337095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_cdyeecom_detail_test.coverage" NAME="zy_cdyeecom_detail_test Coverage Results" MODIFIED="1590459515617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$zy_longyankk_detail_test.coverage" NAME="zy_longyankk_detail_test Coverage Results" MODIFIED="1597026293167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0701-0709" />
+    <SUITE FILE_PATH="coverage/spider$zy_hswcn_detail_test.coverage" NAME="zy_hswcn_detail_test Coverage Results" MODIFIED="1595474378467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/0522test/zy_0522" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nmgzgewenmingcn_detail.coverage" NAME="zzz_nmgzgewenmingcn_detail Coverage Results" MODIFIED="1589362427396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_newscpcrugaocn_detail_test.coverage" NAME="zy_newscpcrugaocn_detail_test Coverage Results" MODIFIED="1591156201101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsrfidworldcomcn_detail_test.coverage" NAME="zy_newsrfidworldcomcn_detail_test Coverage Results" MODIFIED="1591598670143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0612other" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_selium.coverage" NAME="zjr_weibo_selium Coverage Results" MODIFIED="1597743936633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/weibo" />
+    <SUITE FILE_PATH="coverage/spider$zy_gztvcom_detail_test.coverage" NAME="zy_gztvcom_detail_test Coverage Results" MODIFIED="1590466511409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsji_qicom_detail.coverage" NAME="zzz_newsji-qicom_detail Coverage Results" MODIFIED="1589508661211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$proxy.coverage" NAME="proxy Coverage Results" MODIFIED="1572488491142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwoeeeecom_detail_test.coverage" NAME="zy_wwwoeeeecom_detail_test Coverage Results" MODIFIED="1595470123079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zzz_rwftchinareportsorgcn_detail_test.coverage" NAME="zzz_rwftchinareportsorgcn_detail_test Coverage Results" MODIFIED="1592203603232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/0605新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsnewseedcn_detail_test.coverage" NAME="zy_newsnewseedcn_detail_test Coverage Results" MODIFIED="1591168197167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwxinmincnpaper_detai_test__1_.coverage" NAME="zy_wwwxinmincnpaper_detai_test (1) Coverage Results" MODIFIED="1593687325374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0701-0709" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsikanchaicom_detail_test.coverage" NAME="zzz_newsikanchaicom_detail_test Coverage Results" MODIFIED="1590547739514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsenorthcomcn_detail_test.coverage" NAME="zzz_newsenorthcomcn_detail_test Coverage Results" MODIFIED="1590051198632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test" />
+    <SUITE FILE_PATH="coverage/spider$zy_whnewscn_detail_test.coverage" NAME="zy_whnewscn_detail_test Coverage Results" MODIFIED="1592555229544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/0605新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_paperkbcmwcom_detail_test.coverage" NAME="zy_paperkbcmwcom_detail_test Coverage Results" MODIFIED="1592365448141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zy_scdailycn_detail_test.coverage" NAME="zy_scdailycn_detail_test Coverage Results" MODIFIED="1591171460782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_renshipeoplecomcn_detail.coverage" NAME="zzz_renshipeoplecomcn_detail Coverage Results" MODIFIED="1589423346442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_xls_daoru_4_.coverage" NAME="zjr_xls_daoru(4) Coverage Results" MODIFIED="1597022733910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zzz_wwwyznewscomcn_detail_test__1_.coverage" NAME="zzz_wwwyznewscomcn_detail_test (1) Coverage Results" MODIFIED="1590566833563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_360zimeiticom_detail_test.coverage" NAME="zy_360zimeiticom_detail_test Coverage Results" MODIFIED="1592292560350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0522" />
+    <SUITE FILE_PATH="coverage/spider$zy_pdsxwwcom_detail_test.coverage" NAME="zy_pdsxwwcom_detail_test Coverage Results" MODIFIED="1591095902288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0529test" />
+    <SUITE FILE_PATH="coverage/spider$zy_papertaizhoucomcn_detail_test.coverage" NAME="zy_papertaizhoucomcn_detail_test Coverage Results" MODIFIED="1592385872768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zy_paperzyrbcomcn_detail_test.coverage" NAME="zy_paperzyrbcomcn_detail_test Coverage Results" MODIFIED="1593329719986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_wwwyznewscomcn_detail_test.coverage" NAME="zzz_wwwyznewscomcn_detail_test Coverage Results" MODIFIED="1590981830070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwthepapercn_user_detail_test.coverage" NAME="zy_wwwthepapercn_user_detail_test Coverage Results" MODIFIED="1594865551860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zy_hongwangluntan_detail_test.coverage" NAME="zy_hongwangluntan_detail_test Coverage Results" MODIFIED="1595837820175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai" />
+    <SUITE FILE_PATH="coverage/spider$zzz_qzfjsencom_detail.coverage" NAME="zzz_qzfjsencom_detail Coverage Results" MODIFIED="1589358745695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjiajuolcom_detail.coverage" NAME="zzz_newsjiajuolcom_detail Coverage Results" MODIFIED="1589506175117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_wmxacn_detail_test.coverage" NAME="zy_wmxacn_detail_test Coverage Results" MODIFIED="1591175867881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_www81cn_detail_test.coverage" NAME="zzz_www81cn_detail_test Coverage Results" MODIFIED="1592464523760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy/test" />
+    <SUITE FILE_PATH="coverage/spider$zy_yulingtv_detail_test__1_.coverage" NAME="zy_yulingtv_detail_test (1) Coverage Results" MODIFIED="1591069177269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsxmnncn_detail_test.coverage" NAME="zy_newsxmnncn_detail_test Coverage Results" MODIFIED="1591091756735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/0522test/zy_0522" />
+    <SUITE FILE_PATH="coverage/spider$zy_jj831com_detail_test.coverage" NAME="zy_jj831com_detail_test Coverage Results" MODIFIED="1591148642125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_railallynetcn_detail_test.coverage" NAME="zzz_railallynetcn_detail_test Coverage Results" MODIFIED="1590032106005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件/列表无图详情有图" />
+    <SUITE FILE_PATH="coverage/spider$zy_newssinacomcn_detail_test__1_.coverage" NAME="zy_newssinacomcn_detail_test (1) Coverage Results" MODIFIED="1596079516618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-redis" />
+    <SUITE FILE_PATH="coverage/spider$zzz_njfangchinasocom_detail_test.coverage" NAME="zzz_njfangchinasocom_detail_test Coverage Results" MODIFIED="1591171274335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjnnccom_detail_test.coverage" NAME="zzz_newsjnnccom_detail_test Coverage Results" MODIFIED="1590646260717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy15/test/已修改" />
+    <SUITE FILE_PATH="coverage/spider$zy_njrbnjdailycn_detail_test.coverage" NAME="zy_njrbnjdailycn_detail_test Coverage Results" MODIFIED="1591610341364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0612" />
+    <SUITE FILE_PATH="coverage/spider$zy_papercnwomencomcn_detail_test.coverage" NAME="zy_papercnwomencomcn_detail_test Coverage Results" MODIFIED="1592386170919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nmoffcncom_detail_test.coverage" NAME="zzz_nmoffcncom_detail_test Coverage Results" MODIFIED="1590023547631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test0521" />
+    <SUITE FILE_PATH="coverage/spider$zy_cannewscomcn_detail_test.coverage" NAME="zy_cannewscomcn_detail_test Coverage Results" MODIFIED="1591001511693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy_23800netforum_detail_test.coverage" NAME="zy_23800netforum_detail_test Coverage Results" MODIFIED="1597656338126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$1.coverage" NAME="1 Coverage Results" MODIFIED="1597817379473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_newsdayoocom_detail_test.coverage" NAME="zy_newsdayoocom_detail_test Coverage Results" MODIFIED="1591320302197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$test.coverage" NAME="test Coverage Results" MODIFIED="1597212946260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjstvcom_detail_test.coverage" NAME="zzz_newsjstvcom_detail_test Coverage Results" MODIFIED="1592548687006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/test" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwcecn_detail_test.coverage" NAME="zy_wwwcecn_detail_test Coverage Results" MODIFIED="1595210534309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zzz_niigatachina_consulateorgchn_detail_test__1_.coverage" NAME="zzz_niigatachina-consulateorgchn_detail_test (1) Coverage Results" MODIFIED="1590655703194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwthepapercn_detail_test.coverage" NAME="zy_wwwthepapercn_detail_test Coverage Results" MODIFIED="1594111552828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0701-0709" />
+    <SUITE FILE_PATH="coverage/spider$zy_gxylnewscom_detail_test.coverage" NAME="zy_gxylnewscom_detail_test Coverage Results" MODIFIED="1592549293929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_recifechina_consulateorg_detail.coverage" NAME="zzz_recifechina-consulateorg_detail Coverage Results" MODIFIED="1589355775169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_worldpeoplecomcn_detail.coverage" NAME="zzz_worldpeoplecomcn_detail Coverage Results" MODIFIED="1589421839254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work" />
+    <SUITE FILE_PATH="coverage/spider$zzz_wwwtaiwan_detail_test.coverage" NAME="zzz_wwwtaiwan_detail_test Coverage Results" MODIFIED="1592202951326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/修改后的test文件" />
+    <SUITE FILE_PATH="coverage/spider$zy_news66wzcom_detail_test.coverage" NAME="zy_news66wzcom_detail_test Coverage Results" MODIFIED="1591152389008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_chinahuanqiucom_detail_test.coverage" NAME="zy_chinahuanqiucom_detail_test Coverage Results" MODIFIED="1591170852460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0529test" />
+    <SUITE FILE_PATH="coverage/spider$zy_nhwbcnjxolcom_detail_test.coverage" NAME="zy_nhwbcnjxolcom_detail_test Coverage Results" MODIFIED="1592385612402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0612test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjsnolcom_detail_test.coverage" NAME="zzz_newsjsnolcom_detail_test Coverage Results" MODIFIED="1591579591067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/0605新上传" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsmysteelcom_detail.coverage" NAME="zzz_newsmysteelcom_detail Coverage Results" MODIFIED="1592554032655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/zy15afternooon/formal" />
+    <SUITE FILE_PATH="coverage/spider$zy_zolcomcn_detail_test.coverage" NAME="zy_zolcomcn_detail_test Coverage Results" MODIFIED="1591693923341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_search.coverage" NAME="zjr_weibo_search Coverage Results" MODIFIED="1573178928111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwsportscncom_detail_test.coverage" NAME="zy_wwwsportscncom_detail_test Coverage Results" MODIFIED="1593691495511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0701-0709" />
+    <SUITE FILE_PATH="coverage/spider$spider.coverage" NAME="spider Coverage Results" MODIFIED="1571816824614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_ennewscom_detail_test.coverage" NAME="zy_ennewscom_detail_test Coverage Results" MODIFIED="1591690968093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy_newscnnbcomcn_detail_test.coverage" NAME="zy_newscnnbcomcn_detail_test Coverage Results" MODIFIED="1591693750756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zy__detail_test.coverage" NAME="zy__detail_test Coverage Results" MODIFIED="1591067993598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_hncnrcn_detail_test.coverage" NAME="zy_hncnrcn_detail_test Coverage Results" MODIFIED="1591102688762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjiaguhomecom_detail.coverage" NAME="zzz_newsjiaguhomecom_detail Coverage Results" MODIFIED="1589505623679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_xzxwcom_detail_test.coverage" NAME="zy_xzxwcom_detail_test Coverage Results" MODIFIED="1591754782970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zzzzzz_erwei.coverage" NAME="zzzzzz_erwei Coverage Results" MODIFIED="1573177640614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newszhugecombj_detail_test.coverage" NAME="zzz_newszhugecombj_detail_test Coverage Results" MODIFIED="1590980826366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjiulongwcn_detail_test.coverage" NAME="zzz_newsjiulongwcn_detail_test Coverage Results" MODIFIED="1590983437224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_bbsxunlei_detail_test.coverage" NAME="zy_bbsxunlei_detail_test Coverage Results" MODIFIED="1597631168743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai/8-9" />
+    <SUITE FILE_PATH="coverage/spider$zy_chinazjolcom_detail_test.coverage" NAME="zy_chinazjolcom_detail_test Coverage Results" MODIFIED="1591850326433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsijjnewscom_detail_test.coverage" NAME="zzz_newsijjnewscom_detail_test Coverage Results" MODIFIED="1591329481269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy/test" />
+    <SUITE FILE_PATH="coverage/spider$zy_kunshanluntan_detail_test__1_.coverage" NAME="zy_kunshanluntan_detail_test (1) Coverage Results" MODIFIED="1597028233199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0701-0709" />
+    <SUITE FILE_PATH="coverage/spider$zy_xinhuanetcom_url_test.coverage" NAME="zy_xinhuanetcom_url_test Coverage Results" MODIFIED="1595301592285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-redis" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nhcnnbcomcn_detail_test.coverage" NAME="zzz_nhcnnbcomcn_detail_test Coverage Results" MODIFIED="1592386979423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/0611上线test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsjiulongwcn_detail.coverage" NAME="zzz_newsjiulongwcn_detail Coverage Results" MODIFIED="1589506493965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nlchina_embassyorgchn_detail_test.coverage" NAME="zzz_nlchina-embassyorgchn_detail_test Coverage Results" MODIFIED="1590562493186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$hongwang.coverage" NAME="hongwang Coverage Results" MODIFIED="1597716153180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_jybcn_detail_test.coverage" NAME="zy_jybcn_detail_test Coverage Results" MODIFIED="1591150644925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zy_cnwestcom_detail_test.coverage" NAME="zy_cnwestcom_detail_test Coverage Results" MODIFIED="1591100567046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy_0529test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_npfisencom_detail.coverage" NAME="zzz_npfisencom_detail Coverage Results" MODIFIED="1589363625186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zjr_weibo_redian.coverage" NAME="zjr_weibo_redian Coverage Results" MODIFIED="1572422541581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_newscntvcnspecialwumengchaoshouye_detail_test.coverage" NAME="zy_newscntvcnspecialwumengchaoshouye_detail_test Coverage Results" MODIFIED="1590045040711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy0522test" />
+    <SUITE FILE_PATH="coverage/spider$zy_sjzdailycomcn_detail_test.coverage" NAME="zy_sjzdailycomcn_detail_test Coverage Results" MODIFIED="1590477990416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529" />
+    <SUITE FILE_PATH="coverage/spider$zy_cnrcn_detail_test.coverage" NAME="zy_cnrcn_detail_test Coverage Results" MODIFIED="1595497424464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zy_360zimeiticom_detail.coverage" NAME="zy_360zimeiticom_detail Coverage Results" MODIFIED="1589796478276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0522" />
+    <SUITE FILE_PATH="coverage/spider$zy_wjdailycom_detail_test.coverage" NAME="zy_wjdailycom_detail_test Coverage Results" MODIFIED="1591175237536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06testother" />
+    <SUITE FILE_PATH="coverage/spider$zzz_njhouse163com_detail_test.coverage" NAME="zzz_njhouse163com_detail_test Coverage Results" MODIFIED="1589442435897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0514" />
+    <SUITE FILE_PATH="coverage/spider$tsw_ggzy_zhongbiao_detail_spider.coverage" NAME="tsw_ggzy_zhongbiao_detail_spider Coverage Results" MODIFIED="1571724427833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsikanchaicom_detail.coverage" NAME="zzz_newsikanchaicom_detail Coverage Results" MODIFIED="1589362047160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1597626486231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsnencomcn_detail.coverage" NAME="zzz_newsnencomcn_detail Coverage Results" MODIFIED="1592207968757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy15/zy15afternooon/formal" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newszhixiaorencom_detail_test.coverage" NAME="zzz_newszhixiaorencom_detail_test Coverage Results" MODIFIED="1592555925598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nmgzgewenmingcn_detail_test.coverage" NAME="zzz_nmgzgewenmingcn_detail_test Coverage Results" MODIFIED="1592463758041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy_0605test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsijntvcn_detail_test.coverage" NAME="zzz_newsijntvcn_detail_test Coverage Results" MODIFIED="1592190824796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy/test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_cqnewsnet_detail_test.coverage" NAME="zzz_cqnewsnet_detail_test Coverage Results" MODIFIED="1590048936862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_cpdcomcn_detail_test.coverage" NAME="zzz_cpdcomcn_detail_test Coverage Results" MODIFIED="1590048393310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/test" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newszzedunetcn_detail_test.coverage" NAME="zzz_newszzedunetcn_detail_test Coverage Results" MODIFIED="1592192482199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/新上传" />
+    <SUITE FILE_PATH="coverage/spider$zzz_nmpeoplecomcn_detail_test.coverage" NAME="zzz_nmpeoplecomcn_detail_test Coverage Results" MODIFIED="1590027340328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件/列表无图详情有图" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsnankaieducn_detail_test.coverage" NAME="zzz_newsnankaieducn_detail_test Coverage Results" MODIFIED="1590635422696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/zy15/zy15afternooon/test/edit" />
+    <SUITE FILE_PATH="coverage/spider$zzz_wwwtaiwan_detail.coverage" NAME="zzz_wwwtaiwan_detail Coverage Results" MODIFIED="1589337956916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsnankaieducn_detail.coverage" NAME="zzz_newsnankaieducn_detail Coverage Results" MODIFIED="1589527306988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0515" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwxinmincn_detail_test__1_.coverage" NAME="zy_wwwxinmincn_detail_test (1) Coverage Results" MODIFIED="1594863004239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zy_newssinacomcn_detail_test.coverage" NAME="zy_newssinacomcn_detail_test Coverage Results" MODIFIED="1597030390877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zzzz.coverage" NAME="zzzz Coverage Results" MODIFIED="1573696885913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$zy_eastenluntan_detail_test.coverage" NAME="zy_eastenluntan_detail_test Coverage Results" MODIFIED="1597064508164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/luntai" />
+    <SUITE FILE_PATH="coverage/spider$zzz_rizhaodzwwwcom_detail_test.coverage" NAME="zzz_rizhaodzwwwcom_detail_test Coverage Results" MODIFIED="1590031604259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/修改后的test文件/列表无图详情有图" />
+    <SUITE FILE_PATH="coverage/spider$zy_xytvcn_detail_test.coverage" NAME="zy_xytvcn_detail_test Coverage Results" MODIFIED="1590734595320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0529testother" />
+    <SUITE FILE_PATH="coverage/spider$zy_wwwthepengpainewscn_detail_test.coverage" NAME="zy_wwwthepengpainewscn_detail_test Coverage Results" MODIFIED="1595570154989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/month-7/test-kafuka" />
+    <SUITE FILE_PATH="coverage/spider$zzz_newsijjnewscom_detail.coverage" NAME="zzz_newsijjnewscom_detail Coverage Results" MODIFIED="1592207478511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/总文件/zy/formal" />
+  </component>
+</project>

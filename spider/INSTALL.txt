@@ -1,0 +1,33 @@
+
+程序所依赖的第三方包有：
+    1.  python-daemon v1.6
+    2.  lockfile
+    3.  gevent 1.0.1
+    4.  requests
+    5.  lxml
+    6.  ujson
+    7.  numpy
+    8.  redis
+
+
+
+
+可能要用到的第三方包有：
+    1. pymongo
+    2. MySQLdb
+
+
+其他包有：(根据实际部署情况调整导入目录)
+    1.  from data_queue import data_queue
+    2.  from dedup import dedup
+
+运行程序前，需要根据实际部署情况设置配置文件spider.conf，配置信息参见 spider.conf
+
+启动程序命令：
+    python run.py --start
+
+结束程序命令
+    python run.py --stop
+
+重启程序命令
+    python run.py restart
